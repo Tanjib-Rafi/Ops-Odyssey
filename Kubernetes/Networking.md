@@ -4,5 +4,5 @@
 - Envoy     → Smart traffic proxy
 - Istio     → Controls Envoy
 
-look for CNI daemonset
+-- look for CNI daemonset
 ```kubectl get ds -n kube-system kube-proxy```
